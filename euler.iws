@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff55cc62-10bd-4cc0-bc94-a65bc0851850" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/022-names_score/022.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/euler.ipr" afterPath="$PROJECT_DIR$/euler.ipr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/002-even_fibonacci_numbers/002.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/euler.iws" afterPath="$PROJECT_DIR$/euler.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/src.iml" afterPath="$PROJECT_DIR$/src/src.iml" />
     </list>
     <ignored path="euler.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -13,6 +11,7 @@
     <file path="/008.js" changelist="ff55cc62-10bd-4cc0-bc94-a65bc0851850" time="1391021690170" ignored="false" />
     <file path="/a.js" changelist="ff55cc62-10bd-4cc0-bc94-a65bc0851850" time="1391022437652" ignored="false" />
     <file path="/022.js" changelist="ff55cc62-10bd-4cc0-bc94-a65bc0851850" time="1391024650751" ignored="false" />
+    <file path="/002.js" changelist="ff55cc62-10bd-4cc0-bc94-a65bc0851850" time="1391025811821" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,10 +81,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="022.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="022.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/022-names_score/022.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="31" selection-start="1095" selection-end="1095" vertical-scroll-proportion="0.80938417">
+            <state line="36" column="31" selection-start="1095" selection-end="1095" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="002.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/002-even_fibonacci_numbers/002.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="22" selection-start="687" selection-end="687" vertical-scroll-proportion="0.6744868">
               <folding />
             </state>
           </provider>
@@ -111,6 +119,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/008-largest_product/008.js" />
         <option value="$PROJECT_DIR$/src/022-names_score/022.js" />
+        <option value="$PROJECT_DIR$/src/002-even_fibonacci_numbers/002.js" />
       </list>
     </option>
   </component>
@@ -208,6 +217,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="008-largest_product" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="euler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="002-even_fibonacci_numbers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -413,7 +436,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/022-names_score/022.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="31" selection-start="1095" selection-end="1095" vertical-scroll-proportion="0.80938417">
+        <state line="36" column="31" selection-start="1095" selection-end="1095" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/002-even_fibonacci_numbers/002.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="22" selection-start="687" selection-end="687" vertical-scroll-proportion="0.6744868">
           <folding />
         </state>
       </provider>
