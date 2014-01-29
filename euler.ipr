@@ -27,6 +27,10 @@
   </component>
   <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
   <component name="IdProvider" IDEtalkID="3E28F0EB6DF8A7CD6183CAC8A7680084" />
+  <component name="JavaScriptLibraryMappings">
+    <file url="PROJECT" libraries="{Node.js v0.10.21 Core Modules}" />
+    <includedPredefinedLibrary name="Node.js Globals" />
+  </component>
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/src/src.iml" filepath="$PROJECT_DIR$/src/src.iml" />
