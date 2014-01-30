@@ -29,7 +29,8 @@ function findCollatzSeq(upperLimit) {
 		i = null;
 
 	for (i = 1; i < upperLimit; ++i) {
-		n = i, chain = 0;
+		n = i;
+		chain = 0;
 
 		while (n != 1) {
 			n = (n % 2 == 0) ? n / 2 : (3 * n + 1);
