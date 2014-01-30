@@ -21,12 +21,7 @@
 function findCollatzSeq(upperLimit) {
 	'use strict';
 
-	var
-		maxChain = 0,
-		maxChainStart = 0,
-		n = null,
-		chain = null,
-		i = null;
+	var maxChain = 0, maxChainStart = 0, n, chain, i;
 
 	for (i = 1; i < upperLimit; ++i) {
 		n = i;
